@@ -22,5 +22,6 @@
     "window.zoomLevel": 1,
     "cSpell.language": "en-gb",
     "biome.suggestInstallingGlobally": false,
-    "test": "Test"
+    "test": "Test",
+    "abc": "abc"
 }
