@@ -21,5 +21,6 @@
     "workbench.tree.indent": 16,
     "window.zoomLevel": 1,
     "cSpell.language": "en-gb",
-    "biome.suggestInstallingGlobally": false
+    "biome.suggestInstallingGlobally": false,
+    "test": "test"
 }
